@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [TallyPay API Gateway Automation Suite]">
+  <test thread-count="1" name="TallyPay API Gateway Automation Suite(failed)">
+    <classes>
+      <class name="com.example.restassuredproject.testClasses.TestCaseForNIDFrontUpload">
+        <methods>
+          <include name="testNIDFrontUplodad"/>
+        </methods>
+      </class> <!-- com.example.restassuredproject.testClasses.TestCaseForNIDFrontUpload -->
+    </classes>
+  </test> <!-- TallyPay API Gateway Automation Suite(failed) -->
+</suite> <!-- Failed suite [TallyPay API Gateway Automation Suite] -->

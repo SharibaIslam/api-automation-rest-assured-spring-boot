@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TallyPay API Gateway Automation Suite" duration-ms="13755" started-at="2022-02-07T15:11:44Z" finished-at="2022-02-07T15:11:58Z">
+    <groups>
+    </groups>
+    <test name="TallyPay API Gateway Automation Suite" duration-ms="13755" started-at="2022-02-07T15:11:44Z" finished-at="2022-02-07T15:11:58Z">
+      <class name="com.example.restassuredproject.testClasses.TestCaseForNIDClear">
+        <test-method status="PASS" signature="testNIDClear()[pri:5, instance:com.example.restassuredproject.testClasses.TestCaseForNIDClear@652ce654]" name="testNIDClear" duration-ms="81" started-at="2022-02-07T15:11:48Z" finished-at="2022-02-07T15:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNIDClear -->
+      </class> <!-- com.example.restassuredproject.testClasses.TestCaseForNIDClear -->
+      <class name="com.example.restassuredproject.testClasses.TestClassForSignUp">
+        <test-method status="PASS" signature="testSignUpPage()[pri:0, instance:com.example.restassuredproject.testClasses.TestClassForSignUp@17814b1c]" name="testSignUpPage" duration-ms="2307" started-at="2022-02-07T15:11:44Z" finished-at="2022-02-07T15:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUpPage -->
+      </class> <!-- com.example.restassuredproject.testClasses.TestClassForSignUp -->
+      <class name="com.example.restassuredproject.testClasses.TestClassForCreateWallet">
+        <test-method status="PASS" signature="testCreateWallet()[pri:4, instance:com.example.restassuredproject.testClasses.TestClassForCreateWallet@78e89bfe]" name="testCreateWallet" duration-ms="755" started-at="2022-02-07T15:11:47Z" finished-at="2022-02-07T15:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateWallet -->
+      </class> <!-- com.example.restassuredproject.testClasses.TestClassForCreateWallet -->
+      <class name="com.example.restassuredproject.testClasses.TestCaseForOTPValidation">
+        <test-method status="PASS" signature="testOTPValidation()[pri:3, instance:com.example.restassuredproject.testClasses.TestCaseForOTPValidation@7bb004b8]" name="testOTPValidation" duration-ms="117" started-at="2022-02-07T15:11:47Z" finished-at="2022-02-07T15:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOTPValidation -->
+      </class> <!-- com.example.restassuredproject.testClasses.TestCaseForOTPValidation -->
+      <class name="com.example.restassuredproject.testClasses.TestCaseForGetOTPForSignUp">
+        <test-method status="PASS" signature="getOTPForSignUpTest()[pri:1, instance:com.example.restassuredproject.testClasses.TestCaseForGetOTPForSignUp@7ac9af2a]" name="getOTPForSignUpTest" duration-ms="95" started-at="2022-02-07T15:11:47Z" finished-at="2022-02-07T15:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOTPForSignUpTest -->
+      </class> <!-- com.example.restassuredproject.testClasses.TestCaseForGetOTPForSignUp -->
+      <class name="com.example.restassuredproject.testClasses.TestCaseForNIDFrontUpload">
+        <test-method status="PASS" signature="testNIDFrontUplodad()[pri:6, instance:com.example.restassuredproject.testClasses.TestCaseForNIDFrontUpload@522ba524]" name="testNIDFrontUplodad" duration-ms="10376" started-at="2022-02-07T15:11:48Z" finished-at="2022-02-07T15:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNIDFrontUplodad -->
+      </class> <!-- com.example.restassuredproject.testClasses.TestCaseForNIDFrontUpload -->
+    </test> <!-- TallyPay API Gateway Automation Suite -->
+  </suite> <!-- TallyPay API Gateway Automation Suite -->
+</testng-results>
